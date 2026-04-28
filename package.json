@@ -26,6 +26,7 @@
     "helmet": "latest",
     "jsonwebtoken": "latest",
     "morgan": "latest",
+    "node-fetch": "^3.3.2",
     "prisma": "^6.19.0",
     "zod": "latest"
   },
